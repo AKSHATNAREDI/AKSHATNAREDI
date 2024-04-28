@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AKSHATNAREDI
-- 👀 I’m interested in Decoding the Codes
-- 🌱 I’m currently learning Python,C++,SQL.
-- 📫 Reach me at akshatnaredi05@gmail.com
+- 👋 Hi, I’m Akshat
+- 👀 I’m interested in solving problems that were not solved.
+- 🌱 I’m currently learning SQL,Python,C,C++,PowerBI.
+- 📫 More about me at linktr.ee/akshatagarwal5.
 
 <!---
 AKSHATNAREDI/AKSHATNAREDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

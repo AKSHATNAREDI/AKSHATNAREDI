@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Akshat
-- 👀 I’m interested in solving problems that were not solved.
-- 🌱 I’m currently learning SQL,Python,C,C++,PowerBI.
+- 👋 Hi, I’m Akshat Agarwal.
+- 👀 I’m interested in solving problems, listening songs, binge watching sci fi and stuff.
+- 🌱 I’m a Data Analyst well versed with SQL, Python, PowerBI, C and currently invested into ML and GenAI.
 - 📫 More about me at https://linktr.ee/akshatagarwal5.
 
 <!---
